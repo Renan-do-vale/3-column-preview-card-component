@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/3-column-preview-card-component/static/css/main.206ec641.css",
+    "main.js": "/3-column-preview-card-component/static/js/main.07d04b65.js",
+    "index.html": "/3-column-preview-card-component/index.html",
+    "main.206ec641.css.map": "/3-column-preview-card-component/static/css/main.206ec641.css.map",
+    "main.07d04b65.js.map": "/3-column-preview-card-component/static/js/main.07d04b65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.206ec641.css",
+    "static/js/main.07d04b65.js"
+  ]
+}
